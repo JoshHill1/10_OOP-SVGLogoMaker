@@ -1,0 +1,17 @@
+{
+  "name": "SVG Generator",
+  "version": "1.0.0",
+  "description": "Generate SVG logos via the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "JoshHill1",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
